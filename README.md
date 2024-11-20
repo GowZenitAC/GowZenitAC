@@ -6,7 +6,7 @@
 💼 &nbsp;I'm currently working as freelance fullstack web developer to growing company called **GNG Corporation**.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm a recent graduate as Software Developer.\
-✍️ &nbsp;In my free time, I do Video Editing and read books as hobbies/side hustles.\
+✍️ &nbsp;In my free time, I do Video Editing and read books as hobbies/side hustles.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
